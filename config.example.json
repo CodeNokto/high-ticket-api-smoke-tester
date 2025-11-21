@@ -9,15 +9,13 @@
           "name": "status-200",
           "path": "/status/200",
           "method": "GET",
-          "expected_status": 200,
-          "max_response_ms": 1000
+          "expected_status": 200
         },
         {
           "name": "delay-1s",
           "path": "/delay/1",
           "method": "GET",
-          "expected_status": 200,
-          "max_response_ms": 2000
+          "expected_status": 200
         }
       ]
     }
