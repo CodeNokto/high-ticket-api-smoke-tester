@@ -21,3 +21,7 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## Ansvarsfraskrivelse
+
+Dette er et uoffisielt open source-verktøy laget på eget initiativ for å gjøre smoke-testing av HTTP-API-er enklere i praksis. Verktøyet er ikke bestilt eller driftet av noen bestemt virksomhet eller leverandør, og leveres uten noen formell support eller garanti.
